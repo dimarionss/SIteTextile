@@ -1,5 +1,6 @@
 body {
-    background-image: url(../patterns/pattern2.png);
+    /* background-image: url(../patterns/pattern2.png); */
+    
 }
 .top-bar {
     background: #779dfc none repeat scroll 0 0;
@@ -28,17 +29,17 @@ body {
     background: rgba(0, 0, 0, .5);
 }
 .section-title {
-  color: #779dfc;
+  color: #494949;
 }
 .bakery-img {
-  background: #779dfc none repeat scroll 0 0;
+  background: #494949 none repeat scroll 0 0;
 }
 .single-bakery {
   border: 1px solid #e4ebfe;
   background: rgba(241, 245, 255, 0.35) none repeat scroll 0 0;
 }
 .single-bakery h2 {
-  color: #779dfc;
+  color: fff;
 }
 .single-baked p {
   background: #779dfc none repeat scroll 0 0;

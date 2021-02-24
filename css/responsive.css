@@ -215,6 +215,12 @@
         margin-top: 0;
         margin-bottom: 20px;
     }
+    .single-baked img{
+        height: auto;
+    }
+    .product-wrap img{
+        height: auto;
+    }
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
